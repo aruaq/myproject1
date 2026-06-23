@@ -4,6 +4,19 @@ on:
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
+    inputs:
+      send_test:
+        description: "Send Telegram test message before monitor cycle"
+        required: false
+        type: boolean
+        default: false
+  push:
+    branches:
+      - main
+    paths:
+      - "atyrau_monitor.py"
+      - ".github/workflows/monitor.yml"
+      - ".gitignore"
 
 permissions:
   contents: write
@@ -33,7 +46,37 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           PYTHONUNBUFFERED: "1"
+          SEND_TEST_INPUT: ${{ github.event.inputs.send_test || 'false' }}
+          HEAD_COMMIT_MESSAGE: ${{ github.event.head_commit.message || '' }}
         run: |
           mkdir -p state
           touch state/SENT_CANONICAL.txt
-          python atyrau_monitor.py --once
+
+          args=(--once)
+          send_test="$SEND_TEST_INPUT"
+          if [ "$GITHUB_EVENT_NAME" = "push" ] && printf '%s' "$HEAD_COMMIT_MESSAGE" | grep -q '\[send-test\]'; then
+            send_test="true"
+          fi
+          if [ "$send_test" = "true" ]; then
+            args+=(--send-test)
+          fi
+
+          echo "GitHub Actions run started"
+          python atyrau_monitor.py "${args[@]}"
+
+      - name: Commit monitor state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -f state/monitor_state.json state/SENT_CANONICAL.txt 2>/dev/null || true
+
+          if git diff --cached --quiet; then
+            echo "No monitor state changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update monitor state [skip ci]"
+          git pull --rebase --autostash origin "$GITHUB_REF_NAME"
+          git push origin HEAD:"$GITHUB_REF_NAME"

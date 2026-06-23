@@ -787,6 +787,10 @@ def load_env(path: Path) -> dict[str, str]:
     return result
 
 
+def running_in_github_actions() -> bool:
+    return os.environ.get("GITHUB_ACTIONS", "").casefold() == "true"
+
+
 def update_env_value(path: Path, key: str, value: str) -> None:
     lines = path.read_text(encoding="utf-8", errors="ignore").splitlines() if path.exists() else []
     replaced = False
@@ -809,13 +813,18 @@ def update_env_value(path: Path, key: str, value: str) -> None:
 
 
 def setup_logging() -> None:
-    STATE_DIR.mkdir(exist_ok=True)
+    STATE_DIR.mkdir(parents=True, exist_ok=True)
     logging.basicConfig(
         filename=str(LOG_PATH),
         level=logging.INFO,
         format="%(asctime)s %(levelname)s %(message)s",
         encoding="utf-8",
     )
+
+
+def ensure_state_files() -> None:
+    STATE_DIR.mkdir(parents=True, exist_ok=True)
+    SENT_CANONICAL_PATH.touch(exist_ok=True)
 
 
 def load_state() -> dict[str, Any]:
@@ -846,7 +855,7 @@ def load_state() -> dict[str, Any]:
 
 
 def save_state(state: dict[str, Any]) -> None:
-    STATE_DIR.mkdir(exist_ok=True)
+    STATE_DIR.mkdir(parents=True, exist_ok=True)
     tmp = STATE_PATH.with_suffix(".tmp")
     with tmp.open("w", encoding="utf-8") as fh:
         json.dump(state, fh, ensure_ascii=False, indent=2, sort_keys=True)
@@ -854,7 +863,7 @@ def save_state(state: dict[str, Any]) -> None:
 
 
 def acquire_run_lock() -> bool:
-    STATE_DIR.mkdir(exist_ok=True)
+    STATE_DIR.mkdir(parents=True, exist_ok=True)
     try:
         age_seconds = time.time() - LOCK_PATH.stat().st_mtime
         if age_seconds > LOCK_STALE_MINUTES * 60:
@@ -879,8 +888,7 @@ def release_run_lock() -> None:
 
 
 def load_sent_canonicals() -> set[str]:
-    if not SENT_CANONICAL_PATH.exists():
-        return set()
+    ensure_state_files()
     return {
         line.strip()
         for line in SENT_CANONICAL_PATH.read_text(encoding="utf-8", errors="ignore").splitlines()
@@ -889,7 +897,7 @@ def load_sent_canonicals() -> set[str]:
 
 
 def append_sent_canonical(url: str) -> None:
-    STATE_DIR.mkdir(exist_ok=True)
+    STATE_DIR.mkdir(parents=True, exist_ok=True)
     with SENT_CANONICAL_PATH.open("a", encoding="utf-8") as fh:
         fh.write(url.strip() + "\n")
 
@@ -3229,8 +3237,11 @@ def telegram_send(token: str, chat_id: str, text: str) -> None:
                 pass
             if migrate_to and attempt == 0:
                 chat_id = str(migrate_to)
-                update_env_value(ENV_PATH, "TELEGRAM_CHAT_ID", chat_id)
-                logging.info("Telegram chat migrated; TELEGRAM_CHAT_ID updated")
+                if ENV_PATH.exists() and not running_in_github_actions():
+                    update_env_value(ENV_PATH, "TELEGRAM_CHAT_ID", chat_id)
+                    logging.info("Telegram chat migrated; TELEGRAM_CHAT_ID updated in .env")
+                else:
+                    logging.info("Telegram chat migrated; using migrated chat id for this send only")
                 continue
             logging.error("Telegram send failed: HTTP %s %s", exc.code, body)
             raise RuntimeError(f"Telegram HTTP {exc.code}: {body}") from exc
@@ -3443,11 +3454,14 @@ def run_once(send_test: bool = False, dry_run: bool = False) -> int:
 
 def _run_once_locked(send_test: bool = False, dry_run: bool = False) -> int:
     run_at = now_utc()
+    ensure_state_files()
+    if running_in_github_actions():
+        logging.info("GitHub Actions run started")
     env = load_env(ENV_PATH)
     token = env.get("TELEGRAM_BOT_TOKEN", "")
     chat_id = env.get("TELEGRAM_CHAT_ID", "")
     if not token or not chat_id:
-        logging.error("Telegram credentials are missing in .env or environment")
+        logging.error("Telegram credentials are missing in environment variables or optional .env")
         return 2
 
     state = load_state()
@@ -3473,6 +3487,7 @@ def _run_once_locked(send_test: bool = False, dry_run: bool = False) -> int:
             logging.info("DRY RUN test message: %s", text)
         else:
             telegram_send(token, chat_id, text)
+            logging.info("Telegram test message sent successfully")
 
     logging.info("Starting monitor cycle")
     cycle_started = time.monotonic()
