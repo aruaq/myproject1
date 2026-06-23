@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.py[cod]
+
+state/*
+!state/monitor_state.json
+!state/SENT_CANONICAL.txt
