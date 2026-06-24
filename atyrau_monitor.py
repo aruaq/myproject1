@@ -72,7 +72,14 @@ RECENT_UNSENT_RECHECK_MAX_AGE_MINUTES = 12 * 60
 RECENT_UNSENT_RECHECK_INTERVAL_MINUTES = 5
 PRIORITY_RECHECK_MAIN_TOP_N = 1
 PRIORITY_RECHECK_INTERVAL_MINUTES = 60
-TOP_RECHECK_SOURCE_HOSTS = {"azh.kz", "aikyn.kz", "atr.kz", "pricom.kz"}
+TOP_RECHECK_SOURCE_HOSTS = {
+    "azh.kz",
+    "aikyn.kz",
+    "atr.kz",
+    "pricom.kz",
+    "kaz.inform.kz",
+    "www.inform.kz",
+}
 SUPPLEMENTARY_PRIORITY_HOSTS = TOP_RECHECK_SOURCE_HOSTS
 ARTICLE_WORKERS = 16
 SOURCE_WORKERS = 24
@@ -353,6 +360,9 @@ EXTERNAL_NO_DATE_STRONG_RISK_TERMS = {
     "ұсталды",
     "шағым",
     "ластан",
+    "кешіг",
+    "кешіктір",
+    "отставан",
 }
 
 
@@ -584,6 +594,12 @@ RISK_TERMS = [
     "выброс",
     "загрязн",
     "разлив",
+    "срыв срок",
+    "нарушение сроков",
+    "отставан",
+    "жоспардан кеш",
+    "кешіг",
+    "кешіктір",
     "запах",
     "смог",
     "сероводород",
@@ -944,6 +960,9 @@ STEM_TERMS = {
     "чиновн",
     "төтенше",
     "ластан",
+    "кешіг",
+    "кешіктір",
+    "отставан",
     "наразыл",
     "қарсылық білдір",
 }
@@ -1055,6 +1074,12 @@ MEDIUM_SIGNAL_TERMS = [
     "расслед",
     "проверка",
     "проверк",
+    "срыв срок",
+    "нарушение сроков",
+    "отставан",
+    "жоспардан кеш",
+    "кешіг",
+    "кешіктір",
     "резонанс",
     "инцидент",
     "происшеств",
@@ -1137,6 +1162,9 @@ SIGNAL_STEM_TERMS = STEM_TERMS | {
     "расслед",
     "проверк",
     "чиновн",
+    "кешіг",
+    "кешіктір",
+    "отставан",
 }
 NEUTRAL_OFFICIAL_RE = re.compile(
     r"(назначен|назначили|тағайындал|представил|представили|поздрав|құттық|"
@@ -1179,6 +1207,12 @@ HARD_RISK_TERMS = {
     "коммуналь",
     "выброс",
     "загрязн",
+    "срыв срок",
+    "нарушение сроков",
+    "отставан",
+    "жоспардан кеш",
+    "кешіг",
+    "кешіктір",
     "запах",
     "смог",
     "сероводород",
