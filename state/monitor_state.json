@@ -122,7 +122,7 @@
   },
   "last_heartbeat_date": null,
   "last_significant_sent_at": "2026-06-24T09:49:09.706358+00:00",
-  "last_successful_run_at": "2026-06-24T09:49:09.706358+00:00",
+  "last_successful_run_at": "2026-06-24T10:04:57.266037+00:00",
   "recent_unsent_rechecks": {
     "https://aikyn.kz/305785/almatyda-avtobus-zhurgizushisi-rolde-otyrg-an-kuyi-koz-zhu-mdy": "2026-06-23T16:06:19.144386+00:00",
     "https://aikyn.kz/305786/zhu-mys-uak-ytynda-k-u-mar-oyyn-oynag-an-4-memlekettik-k-yzmetker-zhu-mystan-k-uyldy": "2026-06-23T18:13:25.276726+00:00",
@@ -149,10 +149,13 @@
     "https://aikyn.kz/305808/shchuchinskide-9-k-abattan-k-u-lag-an-er-adam-aman-k-aldy": "2026-06-24T05:35:19.335890+00:00",
     "https://aikyn.kz/305809/bolashak--halyk-aralyk--stipendiyasynyn--iegerleri-belgili-boldy": "2026-06-24T07:38:57.272065+00:00",
     "https://aikyn.kz/305812/k-azak-standa-mal-sharuashylyg-yn-zhen-ildikpen-k-arzhylandyrudyn--zhan-a-bag-darlamalary-engizildi": "2026-06-24T09:49:09.706358+00:00",
-    "https://aikyn.kz/305813/ozenge-biikten-sekirgen-16-zhastag-y-zhasospirimnin--moyyn-omyrtk-asy-syndy": "2026-06-24T09:49:09.706358+00:00",
-    "https://aikyn.kz/305814/olzhas-bektenov--zhazg-y-davos--duniezhuzilik-ekonomikalyk--forumynyn--zhu-mysyna-k-atysyp--birk-atar-ekizhak-ty-kezdesu-otkizdi": "2026-06-24T09:49:09.706358+00:00",
-    "https://aikyn.kz/305815/transu-lttyk--k-ylmystyk--topty-bask-arg-an-kudikti-polshadan-ekstradiciyalandy": "2026-06-24T09:49:09.706358+00:00",
-    "https://aikyn.kz/305816/cifrlyk--intellektualdy-elektr-zhelilerin-damytu-zhobasy-pysyk-taldy": "2026-06-24T09:49:09.706358+00:00",
+    "https://aikyn.kz/305813/ozenge-biikten-sekirgen-16-zhastag-y-zhasospirimnin--moyyn-omyrtk-asy-syndy": "2026-06-24T10:04:57.266037+00:00",
+    "https://aikyn.kz/305814/olzhas-bektenov--zhazg-y-davos--duniezhuzilik-ekonomikalyk--forumynyn--zhu-mysyna-k-atysyp--birk-atar-ekizhak-ty-kezdesu-otkizdi": "2026-06-24T10:04:57.266037+00:00",
+    "https://aikyn.kz/305815/transu-lttyk--k-ylmystyk--topty-bask-arg-an-kudikti-polshadan-ekstradiciyalandy": "2026-06-24T10:04:57.266037+00:00",
+    "https://aikyn.kz/305816/cifrlyk--intellektualdy-elektr-zhelilerin-damytu-zhobasy-pysyk-taldy": "2026-06-24T10:04:57.266037+00:00",
+    "https://aikyn.kz/305817/almaty-oblysynyn--prokuraturasy-500-den-astam-zhalg-an-habarlandyrudy-bu-g-attady": "2026-06-24T10:04:57.266037+00:00",
+    "https://aikyn.kz/305818/en-bek-naryg-yna-zholdama--zhetisu-universiteti-zhas-mamandarg-a-diplom-tabystady": "2026-06-24T10:04:57.266037+00:00",
+    "https://aikyn.kz/305819/k-azak-stannyn--k-ay-on-irinde-kun-ote-ystyk--ekeni-belgili-boldy": "2026-06-24T10:04:57.266037+00:00",
     "https://azh.kz/ru/news/view/129302": "2026-06-23T16:06:19.144386+00:00",
     "https://azh.kz/ru/news/view/129307": "2026-06-23T16:06:19.144386+00:00",
     "https://azh.kz/ru/news/view/129312": "2026-06-24T00:10:10.516658+00:00",
@@ -162,7 +165,10 @@
     "https://azh.kz/ru/news/view/129326": "2026-06-24T00:10:10.516658+00:00",
     "https://azh.kz/ru/news/view/129336": "2026-06-24T05:35:19.335890+00:00",
     "https://azh.kz/ru/news/view/129340": "2026-06-24T09:49:09.706358+00:00",
-    "https://azh.kz/ru/news/view/129351": "2026-06-24T09:49:09.706358+00:00"
+    "https://azh.kz/ru/news/view/129351": "2026-06-24T10:04:57.266037+00:00",
+    "https://azh.kz/ru/news/view/129353": "2026-06-24T10:04:57.266037+00:00",
+    "https://azh.kz/ru/news/view/129354": "2026-06-24T10:04:57.266037+00:00",
+    "https://azh.kz/ru/news/view/129357": "2026-06-24T10:04:57.266037+00:00"
   },
   "seen_links": {
     "http://inbusinessposlanie.tilda.ws/": "2026-06-23T15:33:49.531101+00:00",
@@ -285,6 +291,7 @@
     "https://aikyn.kz/305817/almaty-oblysynyn--prokuraturasy-500-den-astam-zhalg-an-habarlandyrudy-bu-g-attady": "2026-06-24T09:49:09.706358+00:00",
     "https://aikyn.kz/305818/en-bek-naryg-yna-zholdama--zhetisu-universiteti-zhas-mamandarg-a-diplom-tabystady": "2026-06-24T09:49:09.706358+00:00",
     "https://aikyn.kz/305819/k-azak-stannyn--k-ay-on-irinde-kun-ote-ystyk--ekeni-belgili-boldy": "2026-06-24T09:49:09.706358+00:00",
+    "https://aikyn.kz/305820/ak-tobe-oblysynda-19-zhastag-y-zhigittin--m-yiti-tabyldy": "2026-06-24T10:04:57.266037+00:00",
     "https://azh.kz/a/show/1485136": "2026-06-23T15:33:49.531101+00:00",
     "https://azh.kz/a/show/1685856": "2026-06-23T15:33:49.531101+00:00",
     "https://azh.kz/a/show/2219508": "2026-06-23T15:33:49.531101+00:00",
@@ -295,6 +302,7 @@
     "https://azh.kz/a/show/2307260": "2026-06-23T15:33:49.531101+00:00",
     "https://azh.kz/a/show/2307371": "2026-06-24T07:38:57.272065+00:00",
     "https://azh.kz/a/show/2309232": "2026-06-24T07:38:57.272065+00:00",
+    "https://azh.kz/a/show/2310540": "2026-06-24T10:04:57.266037+00:00",
     "https://azh.kz/a/show/2314367": "2026-06-23T15:33:49.531101+00:00",
     "https://azh.kz/a/show/2315697": "2026-06-23T15:33:49.531101+00:00",
     "https://azh.kz/a/show/2315700": "2026-06-24T09:49:09.706358+00:00",
@@ -369,8 +377,10 @@
     "https://azh.kz/ru/news/view/129356": "2026-06-24T09:49:09.706358+00:00",
     "https://azh.kz/ru/news/view/129357": "2026-06-24T09:49:09.706358+00:00",
     "https://azh.kz/ru/news/view/129358": "2026-06-24T09:49:09.706358+00:00",
+    "https://azh.kz/ru/news/view/129359": "2026-06-24T10:04:57.266037+00:00",
     "https://azh.kz/ru/news/view/129360": "2026-06-24T09:49:09.706358+00:00",
     "https://azh.kz/ru/news/view/129361": "2026-06-24T09:49:09.706358+00:00",
+    "https://azh.kz/ru/news/view/129362": "2026-06-24T10:04:57.266037+00:00",
     "https://inbusiness.kz/kz/last/405034": "2026-06-23T21:55:00.544876+00:00",
     "https://inbusiness.kz/kz/last/azastanny-basym-bliginde-dauyldy-eskertu-zhariyalandy-405083": "2026-06-24T05:35:19.335890+00:00",
     "https://inbusiness.kz/kz/news/alem-chempionaty-kolumbiya-kongo-kuramasyn-zhendi": "2026-06-24T07:38:57.272065+00:00",
@@ -417,6 +427,7 @@
     "https://inbusiness.kz/ru/last/184-kazakhstantsa-poluchili-stipendiyu-bolashak-405019": "2026-06-23T15:33:49.531101+00:00",
     "https://inbusiness.kz/ru/last/aktivnost-karakurtov-vyzyvaet-trevogu-fermerov-v-mangistau": "2026-06-23T18:13:25.276726+00:00",
     "https://inbusiness.kz/ru/last/almatincy-zaplatili-turfirme-300-mln-tenge-i-nikuda-ne-poleteli": "2026-06-23T18:13:25.276726+00:00",
+    "https://inbusiness.kz/ru/last/arrfr-zapustit-masshtabnuyu-ocenku-brokerov-i-dilerov-po-novym-standartam": "2026-06-24T10:04:57.266037+00:00",
     "https://inbusiness.kz/ru/last/avtoprom-ssha-perehodit-na-voennye-relsy-zayavlenie-trampa-vyzvalo-rezonans": "2026-06-23T15:33:49.531101+00:00",
     "https://inbusiness.kz/ru/last/belgiya-narashivaet-prisutstvie-v-kazahstane-tokaev-provel-peregovory-s-premerom-de-veverom": "2026-06-23T16:06:19.144386+00:00",
     "https://inbusiness.kz/ru/last/bolelshiki-dolzhniki-riskuyut-ostatsya-bez-poezdki-na-chempionat-mira-v-ssha": "2026-06-23T15:33:49.531101+00:00",
@@ -443,6 +454,7 @@
     "https://inbusiness.kz/ru/last/kachestvo-zerna-stalo-predmetom-sudebnogo-spora-v-kostanajskoj-oblasti": "2026-06-23T18:13:25.276726+00:00",
     "https://inbusiness.kz/ru/last/kazahstan-gotovit-pokolenie-ai-liderov-kak-ai-sana-menyaet-sistemu-podgotovki-kadrov": "2026-06-24T07:38:57.272065+00:00",
     "https://inbusiness.kz/ru/last/kazahstan-i-es-podpisali-ryad-soglashenij": "2026-06-23T15:33:49.531101+00:00",
+    "https://inbusiness.kz/ru/last/kazahstancy-stali-pit-kofe-eshe-bolshe-nesmotrya-na-rost-cen": "2026-06-24T10:04:57.266037+00:00",
     "https://inbusiness.kz/ru/last/kazahstanskie-uchenye-sozdali-tehnologiyu-sposobnuyu-predotvrashat-avarii-na-mostah-i-zdaniyah": "2026-06-23T15:33:49.531101+00:00",
     "https://inbusiness.kz/ru/last/kazahstanskij-flag-podnyali-na-samoj-vysokoj-gore-severnoj-ameriki": "2026-06-23T18:13:25.276726+00:00",
     "https://inbusiness.kz/ru/last/kazahstanu-predlozhili-zemelnyj-obmen-s-sosednej-stranoj": "2026-06-24T04:33:47.239570+00:00",
@@ -624,6 +636,7 @@
     "https://informburo.kz/novosti/rukovoditelia-kompanii-texnadzora-obieiavili-v-rozysk-po-delu-s-ushherbom-v-12-mlrd-tenge": "2026-06-24T07:38:57.272065+00:00",
     "https://informburo.kz/novosti/s-predateliami-razgovor-korotkii-sadenov-zestko-vyskazalsia-o-policeiskix-narusivsix-prisiagu": "2026-06-23T15:33:49.531101+00:00",
     "https://informburo.kz/novosti/sadenov-o-postax-s-nasiliem-v-pogone-za-laikami-za-kazdym-proissestviem-stoit-celoveceskoe-gore": "2026-06-23T15:33:49.531101+00:00",
+    "https://informburo.kz/novosti/samolet-vypolniavsii-reis-iz-almaty-v-symkent-vynuzdenno-sel-v-taraze": "2026-06-24T10:04:57.266037+00:00",
     "https://informburo.kz/novosti/skolko-kazaxstancev-zapretili-sebe-igrat-v-azartnye-igry": "2026-06-23T15:33:49.531101+00:00",
     "https://informburo.kz/novosti/smartfony-konfiskovannye-u-blogerov-zanabylovyx-prodadut-na-aukcione": "2026-06-23T15:33:49.531101+00:00",
     "https://informburo.kz/novosti/soldat-erbaian-muxtar-umer-advokat-semi": "2026-06-24T04:33:47.239570+00:00",
@@ -737,6 +750,7 @@
     "https://kaz.inform.kz/news/kizilordada-balalar-kaupszdg-ushn-turgin-uylerge-183-tereze-blokiratori-ornatild-35bd9483": "2026-06-24T05:22:05.386193+00:00",
     "https://kaz.inform.kz/news/kizilordanin-kursh-alkaptarinda-su-esepteu-kurilgilari-sinaktan-otkzlp-zhatir-db13b679": "2026-06-24T04:33:47.239570+00:00",
     "https://kaz.inform.kz/news/kostanay-oblisinda-24-tonna-spirtt-zansiz-tasimalgan-adam-ustaldi-0b7dd692": "2026-06-24T09:49:09.706358+00:00",
+    "https://kaz.inform.kz/news/kostanay-oblisinda-240mln-tengeden-astam-aliment-beresheg-ondrld-6326fc28": "2026-06-24T10:04:57.266037+00:00",
     "https://kaz.inform.kz/news/kostanaydagi-oblistik-auruhanani-zhondeu-keznde-141mln-tenge-zhabdigi-urlandi-8371f219": "2026-06-24T04:33:47.239570+00:00",
     "https://kaz.inform.kz/news/litva-ukmet-premer-ministrmen-brge-otstavkaga-kett-4b2197d1": "2026-06-23T18:13:25.276726+00:00",
     "https://kaz.inform.kz/news/mangistauda-kaspiyge-batip-ketken-27-zhastagi-er-adamdi-zdeu-zhumistari-al-zhurp-551f80f1": "2026-06-23T18:13:25.276726+00:00",
@@ -755,10 +769,12 @@
     "https://kaz.inform.kz/news/petropavlda-nurli-zher-bagdarlamasimen-satilgan-baspanalar-talapka-say-bolmay-sh-4e5dd80f": "2026-06-24T07:38:57.272065+00:00",
     "https://kaz.inform.kz/news/petropavldagi-pestroe-kolnde-er-adam-suga-tunshigip-koz-zhumdi-869f0d67": "2026-06-23T21:55:00.544876+00:00",
     "https://kaz.inform.kz/news/prezident-europa-gimaratina-bardi-3191f045": "2026-06-23T15:33:49.531101+00:00",
+    "https://kaz.inform.kz/news/qarmet-tn-zhana-tsehi-zhilina-240-min-tonna-onm-shigaratin-boladi-23536cf0": "2026-06-24T10:04:57.266037+00:00",
     "https://kaz.inform.kz/news/reseyde-br-aptada-600-ge-zhuik-orman-ort-trkeld-86c514de": "2026-06-23T20:22:51.705225+00:00",
     "https://kaz.inform.kz/news/robototehnika-intellekt-zhane-sport-aybin-2026-zhiininda-baykau-sinaktari-bastal-9a6469e0": "2026-06-23T15:33:49.531101+00:00",
     "https://kaz.inform.kz/news/shko-ormandarinda-ort-kaupnn-en-zhogari-dengey-zhariyalandi-bfe0eb58": "2026-06-24T04:33:47.239570+00:00",
     "https://kaz.inform.kz/news/sintetikalik-esrtk-satu-transulttik-kilmistik-topti-baskargan-kudkt-polshadan-ek-ce03ae5d": "2026-06-24T05:22:05.386193+00:00",
+    "https://kaz.inform.kz/news/stend-atudan-alem-chempionatinda-kazakstan-kuramasi-altin-medal-zhenp-aldi-45f834ec": "2026-06-24T10:04:57.266037+00:00",
     "https://kaz.inform.kz/news/taker-karlson-end-respublikalik-partiyani-koldamaydi-2783d701": "2026-06-23T18:13:25.276726+00:00",
     "https://kaz.inform.kz/news/tashkent-metrosi-ozbekstan-portugaliya-matchinin-zhankuyerler-ushn-zhumis-uakiti-25517e8d": "2026-06-23T18:13:25.276726+00:00",
     "https://kaz.inform.kz/news/tiyim-salingan-kontent-okushilarga-kolzhetmd-bolgan-abay-oblisinda-mektep-direkt-69a7ea16": "2026-06-24T09:49:09.706358+00:00",
@@ -842,6 +858,7 @@
     "https://kaztag.kz/ru/news/minenergo-kazakhstana-prokommentirovalo-ataku-dronov-po-gpz-v-orenburge": "2026-06-24T09:49:09.706358+00:00",
     "https://kaztag.kz/ru/news/minzdrav-prokommentiroval-smert-soldata-natsgvardii-erbayana-mukhtara": "2026-06-24T07:38:57.272065+00:00",
     "https://kaztag.kz/ru/news/na-granitse-kazakhstana-i-rossii-obrazovalsya-krupnyy-zator-iz-fur": "2026-06-24T05:22:05.386193+00:00",
+    "https://kaztag.kz/ru/news/narusheniya-tarifnoy-smety-vyyavili-v-kyzylordinskoy-oblasti": "2026-06-24T10:04:57.266037+00:00",
     "https://kaztag.kz/ru/news/nezakonnoe-kafe-snesli-v-almaty": "2026-06-23T15:33:49.531101+00:00",
     "https://kaztag.kz/ru/news/obgorevshee-telo-politseyskogo-naydeno-v-gorakh-almatinskoy-oblasti": "2026-06-24T07:38:57.272065+00:00",
     "https://kaztag.kz/ru/news/obyavleny-laureaty-premiy-i-nagrad-soyuza-zhurnalistov-kazakhstana-24-6-26": "2026-06-24T07:38:57.272065+00:00",
@@ -865,6 +882,7 @@
     "https://kaztag.kz/ru/news/troe-skonchalis-v-rezultate-dtp-na-trasse-v-almatinskoy-oblasti": "2026-06-24T09:49:09.706358+00:00",
     "https://kaztag.kz/ru/news/tsena-na-zoloto-snizilas-po-itogam-vechernego-mezhbankovskogo-fiksinga-v-londone-24-6-26": "2026-06-24T04:33:47.239570+00:00",
     "https://kaztag.kz/ru/news/tseny-na-neft-snizilis-na-mirovykh-birzhakh-vo-vtornik-24-6-26": "2026-06-24T09:49:09.706358+00:00",
+    "https://kaztag.kz/ru/news/u-too-firkan-v-shymkente-vyyavili-neobosnovannyy-dokhod": "2026-06-24T10:04:57.266037+00:00",
     "https://kaztag.kz/ru/news/ugolovnoe-delo-za-naydennyy-patron-prekratili-v-astane": "2026-06-24T09:49:09.706358+00:00",
     "https://kaztag.kz/ru/news/v-almaty-24-iyunya-proydet-testovyy-zapusk-sistemy-opoveshcheniya-masalert": "2026-06-24T05:35:19.335890+00:00",
     "https://kaztag.kz/ru/news/v-vko-nachato-rassledovanie-v-otnoshenii-glavy-too-vostok-inzhiniring": "2026-06-24T05:22:05.386193+00:00",
@@ -926,6 +944,7 @@
     "https://kz.kursiv.media/2026-06-24/assm-portugaliya-uzbekistan-kazakhstantsy-boleli-za-sosedey-kak-za-svoikh": "2026-06-24T09:49:09.706358+00:00",
     "https://kz.kursiv.media/2026-06-24/bczk-nachal-eksport-it-reshenij-na-rynok-uzbekistana": "2026-06-24T05:22:05.386193+00:00",
     "https://kz.kursiv.media/2026-06-24/chnv-almatinczev-vozmutilo-sostoyanie-ozera-sairan": "2026-06-24T09:49:09.706358+00:00",
+    "https://kz.kursiv.media/2026-06-24/chnv-babl-ti-rejvery-i-dostavshchik-piccy-okazalis-na-scene-opernogo-teatra-v-almaty": "2026-06-24T10:04:57.266037+00:00",
     "https://kz.kursiv.media/2026-06-24/chnv-kak-popast-na-masshtabnyi-forum-tatler-gen-t-leaders-of-tomorrow-v-almaty": "2026-06-24T09:49:09.706358+00:00",
     "https://kz.kursiv.media/2026-06-24/cntr-rossiyanin-suditsya-s-fts-iz-za-kia-iz-kazahstana-trebuya-otmenit-donachisleniya": "2026-06-24T07:38:57.272065+00:00",
     "https://kz.kursiv.media/2026-06-24/cntr-sestra-pogibshey-v-dtp-na-trasse-almaty-khorgos-prosit-predat-delo-oglaske": "2026-06-24T09:49:09.706358+00:00",
@@ -939,6 +958,7 @@
     "https://kz.kursiv.media/2026-06-24/dlzh-govoryashhie-drony-nachali-patrulirovat-plyazhi-v-kazahstane": "2026-06-24T09:49:09.706358+00:00",
     "https://kz.kursiv.media/2026-06-24/dlzh-kazahstanskih-prizyvnikov-budut-raspredelyat-v-gosorgany-po-ostatochnomu-princzipu": "2026-06-24T09:49:09.706358+00:00",
     "https://kz.kursiv.media/2026-06-24/dlzh-kvota-v-1-v-nczt-ozvuchili-shansy-detej-sirot-na-besplatnoe-obrazovanie": "2026-06-24T07:38:57.272065+00:00",
+    "https://kz.kursiv.media/2026-06-24/dlzh-minenergo-obratilos-k-kazahstanczam-iz-za-soobshhenij-o-deficzite-topliva-v-soczsetyah": "2026-06-24T10:04:57.266037+00:00",
     "https://kz.kursiv.media/2026-06-24/dlzh-mog-sluchitsya-haos-v-parlamente-obyasnili-smenu-daty-vyborov-zhaparova": "2026-06-24T09:49:09.706358+00:00",
     "https://kz.kursiv.media/2026-06-24/dnlt-arrfr-pereoformit-litsenzii-vsem-bankam-i-primet-82-akta": "2026-06-24T04:33:47.239570+00:00",
     "https://kz.kursiv.media/2026-06-24/fvfv-glava-dvuh-aviakompaniy-rk-i-figurant-dela-o-krazhe-topliva-godami-rabotaet-besplatno": "2026-06-24T07:38:57.272065+00:00",
@@ -951,15 +971,18 @@
     "https://kz.kursiv.media/2026-06-24/lsbs-policziya-nagryanula-v-sotni-aptek-i-bolnicz-kazahstana-s-proverkami": "2026-06-24T09:49:09.706358+00:00",
     "https://kz.kursiv.media/2026-06-24/lsbs-uchenye-vernuli-paralizovannym-svinyam-sposobnost-hodit": "2026-06-24T05:22:05.386193+00:00",
     "https://kz.kursiv.media/2026-06-24/mgpz-dubl-krishtianu-ronaldu-pomog-portugalii-razgromit-uzbekistan-na-chm-2026": "2026-06-23T20:22:51.705225+00:00",
+    "https://kz.kursiv.media/2026-06-24/mgpz-shestyu-matchami-startuet-tretii-tur-gruppovogo-etapa-chempionata-mira-2026": "2026-06-24T10:04:57.266037+00:00",
     "https://kz.kursiv.media/2026-06-24/mlts-kolumbiya-vyigrala-u-dr-kongo-i-vyshla-v-plej-off-kubka-mira-2026": "2026-06-24T04:33:47.239570+00:00",
     "https://kz.kursiv.media/2026-06-24/mlts-komanda-kazahstanskih-shpazhistok-vyigrala-bronzu-chempionata-azii": "2026-06-24T09:49:09.706358+00:00",
     "https://kz.kursiv.media/2026-06-24/mlts-u-sbornoj-kazahstana-po-futbolu-budet-novyj-trener-23-j-po-schetu": "2026-06-24T07:38:57.272065+00:00",
     "https://kz.kursiv.media/2026-06-24/novyj-czeh-qarmet-budet-vypuskat-240-tysyach-tonn-produkczii-v-god": "2026-06-24T09:49:09.706358+00:00",
     "https://kz.kursiv.media/2026-06-24/pochemu-mnogie-zayavlennye-ai-proekty-tak-i-ne-budut-postroeny": "2026-06-24T09:49:09.706358+00:00",
+    "https://kz.kursiv.media/2026-06-24/rmnm-taksi-green-sm-otkazhetsya-ot-google-maps-posle-zhalob-v-almaty": "2026-06-24T10:04:57.266037+00:00",
     "https://kz.kursiv.media/2026-06-24/rmnm-toyota-rav4-raskupayut-bystreye-chem-dilery-uspevayut-ikh-poluchit": "2026-06-24T05:22:05.386193+00:00",
     "https://kz.kursiv.media/2026-06-24/rmnm-voditelya-gruzovika-lishili-prav-za-popytku-obmanut-platnuyu-dorogu": "2026-06-24T07:38:57.272065+00:00",
     "https://kz.kursiv.media/2026-06-24/shlc-infekcziya-i-otkaz-organov-minzdrav-raskryl-detali-poslednih-dnej-erbayana-muhtara": "2026-06-24T05:35:19.335890+00:00",
     "https://kz.kursiv.media/2026-06-24/shlc-masshtabnuyu-shemu-obmana-na-olx-vskryli-v-almatinskoj-oblasti": "2026-06-24T09:49:09.706358+00:00",
+    "https://kz.kursiv.media/2026-06-24/shlc-po-vsemu-kazahstanu-obyavleno-shtormovoe-preduprezhdenie-iz-za-ugrozy-uragannogo-vetra": "2026-06-24T10:04:57.266037+00:00",
     "https://kz.kursiv.media/2026-06-24/shlc-sluchajnaya-nahodka-vozle-lrt-obernulas-sudimostyu-dlya-zhitelya-astany": "2026-06-24T07:38:57.272065+00:00",
     "https://kz.kursiv.media/2026-06-24/shlc-v-almatinskoj-oblasti-zhena-i-syn-arestovany-za-podzhog-otcza-policzejskogo": "2026-06-24T07:38:57.272065+00:00",
     "https://kz.kursiv.media/2026-06-24/tksh-glava-vostok-inzhiniring-podalsya-v-bega-iz-za-makhinatsiy-s-sotsobyektami-na-12-mlrd": "2026-06-24T07:38:57.272065+00:00",
@@ -1150,6 +1173,7 @@
     "https://orda.kz/air-liquide-vlozhit-70-mln-evro-v-proekt-polijetilenovogo-zavoda-v-atyrauskoj-oblasti-416170": "2026-06-24T07:38:57.272065+00:00",
     "https://orda.kz/airbus-na-sem-mlrd-evro-uproschenie-viz-remont-dorog-kazahstan-i-es-podpisali-rjad-dokumentov-416158": "2026-06-23T16:06:19.144386+00:00",
     "https://orda.kz/almatincy-skupajut-dollary-netto-prodazhi-v-gorode-vzleteli-pochti-v-dva-raza-416131": "2026-06-23T15:33:49.531101+00:00",
+    "https://orda.kz/ataka-na-gpz-v-rossii-snova-podnjala-vopros-o-gaze-s-karachaganaka-416178": "2026-06-24T10:04:57.266037+00:00",
     "https://orda.kz/bednost-ne-povod-ne-rozhat-muftijat-kazahstana-zapretil-chajldfri-po-normam-shariata-416176": "2026-06-24T09:49:09.706358+00:00",
     "https://orda.kz/chinovnikov-uvolili-za-azartnye-igry-na-rabote-v-turkestanskoj-oblasti-416153": "2026-06-23T15:33:49.531101+00:00",
     "https://orda.kz/chto-stalo-s-molochnymi-zavodami-kazahstana-istorija-propavshih-aktivov-agroprodukta-415935": "2026-06-23T15:33:49.531101+00:00",
@@ -1173,6 +1197,7 @@
     "https://orda.kz/ledniki-tajut-vody-stanovitsja-menshe-ili-zachem-kazahstanu-cifrovoj-gidrolog-416133": "2026-06-23T15:33:49.531101+00:00",
     "https://orda.kz/lukpana-ahmedjarova-dostavili-na-medosvidetelstvovanie-posle-ostanovki-avtomobilja-v-uralske-416108": "2026-06-23T15:33:49.531101+00:00",
     "https://orda.kz/mazhilis-i-senat-soberutsja-na-poslednee-zasedanie-pered-uprazdneniem-parlamenta-416154": "2026-06-23T15:33:49.531101+00:00",
+    "https://orda.kz/minjenergo-hotelo-podnjat-tarify-na-jelektrichestvo-s-1-ijulja-no-neozhidanno-otozvalo-proekt-416177": "2026-06-24T10:04:57.266037+00:00",
     "https://orda.kz/minzdrav-raskryl-prichinu-smerti-srochnika-erbajana-muhtara-416165": "2026-06-24T04:33:47.239570+00:00",
     "https://orda.kz/na-remont-mnogojetazhek-v-kazahstane-mogut-dopolnitelno-potratit-207-mlrd-tenge-416119": "2026-06-23T15:33:49.531101+00:00",
     "https://orda.kz/naehavshuju-na-mat-odinochku-zhenschinu-v-kokshetau-osudili-za-smertelnoe-dtp-416138": "2026-06-23T15:33:49.531101+00:00",
@@ -1221,6 +1246,7 @@
     "https://tengrinews.kz/curious/iskal-jizn-belgiets-nashel-novuyu-mechtu-uslyishav-dombru-602231": "2026-06-23T15:33:49.531101+00:00",
     "https://tengrinews.kz/curious/konina-6-utra-5-letniy-jitel-kokshetau-neojidanno-stal-602266": "2026-06-23T15:33:49.531101+00:00",
     "https://tengrinews.kz/curious/mir-soshel-uma-vlyubilsya-kazahstanskuyu-legkoatletku-601924": "2026-06-23T15:33:49.531101+00:00",
+    "https://tengrinews.kz/curious/politseyskiy-udivil-prohojih-na-naberejnoy-v-pavlodare-602332": "2026-06-24T10:04:57.266037+00:00",
     "https://tengrinews.kz/curious/vyi-ne-na-plyaje-astanchanok-pristyidili-za-vneshniy-vid-602255": "2026-06-23T15:33:49.531101+00:00",
     "https://tengrinews.kz/curious/zumeryi-uchatsya-zanovo-govorit-po-telefonu-i-vot-zachem-602346": "2026-06-24T09:49:09.706358+00:00",
     "https://tengrinews.kz/healthy/instagram-teper-mojno-smotret-na-televizore-602357": "2026-06-24T09:49:09.706358+00:00",
@@ -1235,6 +1261,7 @@
     "https://tengrinews.kz/kazakhstan_news/bank-rbk-pokazal-luchshuyu-dinamiku-rosta-kreditnogo-602327": "2026-06-24T07:38:57.272065+00:00",
     "https://tengrinews.kz/kazakhstan_news/bank-tsentrkredit-vnov-priznan-samyim-aktivnyim-bankom-602246": "2026-06-23T15:33:49.531101+00:00",
     "https://tengrinews.kz/kazakhstan_news/dolgojdannaya-prohlada-idt-v-kazahstan-602146": "2026-06-23T15:33:49.531101+00:00",
+    "https://tengrinews.kz/kazakhstan_news/fortebank-uvelichil-kapital-461-milliarda-tenge-rasshireniya-602355": "2026-06-24T10:04:57.266037+00:00",
     "https://tengrinews.kz/kazakhstan_news/glava-evropeyskoy-komissii-soobschila-horoshuyu-novost-602291": "2026-06-23T15:33:49.531101+00:00",
     "https://tengrinews.kz/kazakhstan_news/kazahstan-evropeyskiy-soyuz-gotovyat-sdelki-12-milliardov-602300": "2026-06-24T04:33:47.239570+00:00",
     "https://tengrinews.kz/kazakhstan_news/kazahstan-gotov-postavlyat-evropu-kriticheski-vajnyie-602299": "2026-06-23T20:22:51.705225+00:00",
@@ -1283,6 +1310,7 @@
     "https://tengrinews.kz/news/kafe-snesli-v-almatyi-akimat-obyyasnil-prichinu-602249": "2026-06-23T15:33:49.531101+00:00",
     "https://tengrinews.kz/news/krupnyiy-ryinok-snesli-v-almatyi-akimat-obyyasnil-prichinu-602054": "2026-06-23T15:33:49.531101+00:00",
     "https://tengrinews.kz/news/podpolnuyu-farmimperiyu-nakryili-almatyi-dele-zameshanyi-602317": "2026-06-24T04:33:47.239570+00:00",
+    "https://tengrinews.kz/newseducation/pervomu-abiturientu-otmenili-rezultat-ent-proverki-video-602191": "2026-06-24T10:04:57.266037+00:00",
     "https://tengrinews.kz/private_finance/kazahstantsyi-nashli-sposob-poluchit-svoi-pensionnyie-601441": "2026-06-24T04:33:47.239570+00:00",
     "https://tengrinews.kz/private_finance/kupyuru-2000-tenge-perestanut-prinimat-kazahstane-24-iyunya-602093": "2026-06-23T15:33:49.531101+00:00",
     "https://tengrinews.kz/russia/davay-je-mujchinyi-ingushetii-naydeno-telo-8-letnego-geroya-602199": "2026-06-23T15:33:49.531101+00:00",
@@ -1402,12 +1430,15 @@
     "https://ulysmedia.kz/news/75820-minenergo-ataka-na-orenburgskii-gpz-v-rossii-ne-povliiala-na-kazakhstan": "2026-06-24T09:49:09.706358+00:00",
     "https://ulysmedia.kz/news/75821-askar-akaev-rasskazal-o-sostoianii-nursultana-nazarbaeva": "2026-06-24T09:49:09.706358+00:00",
     "https://ulysmedia.kz/news/75822-skandal-v-bolnitse-i-stychka-s-politsiei-chto-proiskhodilo-v-noch-smerti-erbaiana": "2026-06-24T09:49:09.706358+00:00",
+    "https://ulysmedia.kz/news/75823-gost-iz-ashkhabada-razogreet-iug-kazakhstana-do-42-gradusov": "2026-06-24T10:04:57.266037+00:00",
+    "https://ulysmedia.kz/news/75825-ssha-sozdadut-v-kazakhstane-zonu-ekonomicheskoi-bezopasnosti-dlia-postavok-redkikh-mineralov": "2026-06-24T10:04:57.266037+00:00",
     "https://www.inform.kz/ru/15-inostrantsev-zaderzhali-pripopitke-nezakonnogo-peresecheniya-granitsi-kazahst-6a1eb2e7": "2026-06-24T07:38:57.272065+00:00",
     "https://www.inform.kz/ru/19-letniy-kazahstanskiy-fehtovalshik-pobedil-olimpiyskogo-chempiona-f2dd4f67": "2026-06-23T15:33:49.531101+00:00",
     "https://www.inform.kz/ru/19-letniy-paren-pogib-ot-udara-molnii-v-aktyubinskoy-oblasti-d69f5614": "2026-06-24T07:38:57.272065+00:00",
     "https://www.inform.kz/ru/24iyunya-kalendar-kazinforma-dati-sobitiya-5f3324bd": "2026-06-24T04:33:47.239570+00:00",
     "https://www.inform.kz/ru/24iyunya-kalendar-kazinforma-dni-rozhdeniya-bfaf7dc7": "2026-06-24T04:33:47.239570+00:00",
     "https://www.inform.kz/ru/40km-trassi-makinsk-aksu-torgay-remontiruyut-vakmolinskoy-oblasti-6fc4ffca": "2026-06-23T18:13:25.276726+00:00",
+    "https://www.inform.kz/ru/85-letniy-temperaturniy-rekord-pobit-v-astane-afce873c": "2026-06-24T10:04:57.266037+00:00",
     "https://www.inform.kz/ru/amerikanskaya-mechta-stanovitsya-dorozhe-29ee8aed": "2026-06-24T09:49:09.706358+00:00",
     "https://www.inform.kz/ru/angliya-poteryala-ochki-vovtorom-matche-chm-2026-pofutbolu-ccf21552": "2026-06-23T23:01:55.351654+00:00",
     "https://www.inform.kz/ru/astana-bryussel-strategicheskaya-druzhba-isinergiya-interesov-86c900ea": "2026-06-24T09:49:09.706358+00:00",
@@ -1444,6 +1475,7 @@
     "https://www.inform.kz/ru/kak-formiruetsya-noviy-uroven-doveriya-mezhdu-astanoy-i-bryusselem-ekspert-b7a4b290": "2026-06-23T18:13:25.276726+00:00",
     "https://www.inform.kz/ru/kakie-dokumenti-podpisani-mezhdu-kazahstanom-i-evrosoyuzom-eea1f62b": "2026-06-23T15:33:49.531101+00:00",
     "https://www.inform.kz/ru/kakimi-sbornimi-chempionata-mira-po-futbolu-chashe-vsego-interesuyutsya-kazahsta-3968a5aa": "2026-06-24T07:38:57.272065+00:00",
+    "https://www.inform.kz/ru/kazahstan-i-es-perehodyat-k-novoy-modeli-partnerstva-v-tsentralnoy-azii-ec7d272a": "2026-06-24T10:04:57.266037+00:00",
     "https://www.inform.kz/ru/kazahstan-i-es-perehodyat-k-prakticheskoy-realizatsii-sovmestnih-proektov-glava--074dcbc5": "2026-06-23T20:22:51.705225+00:00",
     "https://www.inform.kz/ru/kazahstan-i-es-vihodyat-na-noviy-uroven-sotrudnichestva-chto-obsudili-v-bryussel-c334203a": "2026-06-23T15:33:49.531101+00:00",
     "https://www.inform.kz/ru/kazahstan-operezhaet-ryad-stran-g20-vreytinge-ustoychivogo-razvitiya-7c49f396": "2026-06-24T09:49:09.706358+00:00",
@@ -1467,6 +1499,7 @@
     "https://www.inform.kz/ru/novaya-kategoriya-vida-na-zhitelstvo-dlya-suprugov-grazhdan-strani-vvoditsya-v-g-c4230560": "2026-06-23T18:13:25.276726+00:00",
     "https://www.inform.kz/ru/novoe-obshezhitie-vmesto-avariynogo-pochemu-proekt-vatirau-zatyanulsya-nagodi-6551ac5f": "2026-06-24T05:22:05.386193+00:00",
     "https://www.inform.kz/ru/obgorevshee-telo-politseyskogo-naydeno-vgorah-almatinskoy-oblasti-zaderzhani-zhe-a330a1bc": "2026-06-24T07:38:57.272065+00:00",
+    "https://www.inform.kz/ru/okolo-20-kg-marihuani-izyali-v-hode-spetsoperatsii-v-aktau-f9cff78c": "2026-06-24T10:04:57.266037+00:00",
     "https://www.inform.kz/ru/oman-otkril-vremenniy-koridor-vormuzskom-prolive-2dd92f5f": "2026-06-24T09:49:09.706358+00:00",
     "https://www.inform.kz/ru/opublikovani-spiski-obladateley-mezhdunarodnoy-stipendii-bolashak-982936b0": "2026-06-23T15:33:49.531101+00:00",
     "https://www.inform.kz/ru/oracle-sokratila-bolee-20-tisyach-sotrudnikov-iz-za-ii-d619550b": "2026-06-24T09:49:09.706358+00:00",
@@ -1585,6 +1618,7 @@
     "https://www.zakon.kz/pravo/6522430-prizyv-na-voennuyu-sluzhbu-tsifroviziruyut-v-kazakhstane.html": "2026-06-24T07:38:57.272065+00:00",
     "https://www.zakon.kz/pravo/6522436-utochnen-poryadok-predstavleniya-svedeniy-i-priznaki-podozritelnykh-operatsiy.html": "2026-06-24T07:38:57.272065+00:00",
     "https://www.zakon.kz/pravo/6522444-izmenilis-pravila-raboty-gosservisa-kontrolya-dostupa-k-personalnym-dannym.html": "2026-06-24T09:49:09.706358+00:00",
+    "https://www.zakon.kz/pravo/6522456-trebovaniya-k-tsentram-obrabotki-dannykh-utverdili-v-kazakhstane.html": "2026-06-24T10:04:57.266037+00:00",
     "https://www.zakon.kz/proisshestviia/6522349-Lada-Largus-oprokinulsya-na-bok-posle-stolknoveniya-s-Chevrolet-Cobalt-v-almaty-est-postradavshaya.html": "2026-06-23T15:33:49.531101+00:00",
     "https://www.zakon.kz/proisshestviia/6522354-dva-cheloveka-popali-v-bolnitsu-posle-dtp-s-gruzovikom-v-almaty.html": "2026-06-23T15:33:49.531101+00:00",
     "https://www.zakon.kz/proisshestviia/6522357-gazovoz-vspykhnul-v-astane-na-glazakh-u-ochevidtsev.html": "2026-06-23T15:33:49.531101+00:00",
@@ -1838,6 +1872,7 @@
   "sources": {
     "https://aikyn.kz/news": {
       "last_links": [
+        "https://aikyn.kz/305820/ak-tobe-oblysynda-19-zhastag-y-zhigittin--m-yiti-tabyldy",
         "https://aikyn.kz/305819/k-azak-stannyn--k-ay-on-irinde-kun-ote-ystyk--ekeni-belgili-boldy",
         "https://aikyn.kz/305818/en-bek-naryg-yna-zholdama--zhetisu-universiteti-zhas-mamandarg-a-diplom-tabystady",
         "https://aikyn.kz/305817/almaty-oblysynyn--prokuraturasy-500-den-astam-zhalg-an-habarlandyrudy-bu-g-attady",
@@ -1886,20 +1921,20 @@
         "https://aikyn.kz/305772/perzenttik-paryzymdy-otey-aldym-ba-eken----nu-rlan-onerbaev-omirden-otken-anasyn-eske-aldy",
         "https://aikyn.kz/305775/denesi-kogergen--ozi-ash-bolg-an--daladan-tabylg-an-bes-zhasar-balanyn--zhag-dayy-belgili-boldy",
         "https://aikyn.kz/305773/bes-adamnyn--omirin-k-ig-an-zhol-apaty--aman-k-alg-andardyn--zhag-dayy-belgili-boldy",
-        "https://aikyn.kz/305771/u-lttyk--k-org-a-tusken-k-arzhynyn--basym-boligi-byudzhetke-audarylg-an",
-        "https://aikyn.kz/305770/shymkentte-segiz-balanyn--anasy-ortenip-ketti"
+        "https://aikyn.kz/305771/u-lttyk--k-org-a-tusken-k-arzhynyn--basym-boligi-byudzhetke-audarylg-an"
       ],
-      "last_success_at": "2026-06-24T09:49:09.706358+00:00",
+      "last_success_at": "2026-06-24T10:04:57.266037+00:00",
       "last_supplementary_at": "2026-06-24T09:49:09.706358+00:00",
       "last_top_recheck_at": "2026-06-24T05:35:19.335890+00:00"
     },
     "https://atr.kz/": {
       "last_error": "main source fetch failed: HTTPError: HTTP Error 403: Forbidden",
-      "last_error_at": "2026-06-24T09:49:09.706358+00:00"
+      "last_error_at": "2026-06-24T10:04:57.266037+00:00"
     },
     "https://azh.kz/ru/news/in-atyrau": {
       "last_links": [
         "https://azh.kz/ru/news/view/129326",
+        "https://azh.kz/ru/news/view/129362",
         "https://azh.kz/ru/news/view/129357",
         "https://azh.kz/ru/news/view/129356",
         "https://azh.kz/ru/news/view/129334",
@@ -1923,11 +1958,11 @@
         "https://azh.kz/ru/news/view/129273",
         "https://azh.kz/ru/news/view/129269",
         "https://azh.kz/ru/news/view/129268",
-        "https://azh.kz/ru/news/view/129265",
+        "https://azh.kz/ru/news/view/129359",
         "https://azh.kz/ru/news/view/129361",
         "https://azh.kz/ru/news/view/129360",
         "https://azh.kz/ru/news/view/129358",
-        "https://azh.kz/ru/news/view/129355",
+        "https://azh.kz/a/show/2310540",
         "https://azh.kz/a/show/2315700",
         "https://azh.kz/a/show/2333049",
         "https://azh.kz/a/show/2309232",
@@ -1937,10 +1972,9 @@
         "https://azh.kz/a/show/2314367",
         "https://azh.kz/a/show/2307371",
         "https://azh.kz/a/show/2241485",
-        "https://azh.kz/a/show/980418",
         "https://azh.kz/content/politics"
       ],
-      "last_success_at": "2026-06-24T09:49:09.706358+00:00",
+      "last_success_at": "2026-06-24T10:04:57.266037+00:00",
       "last_supplementary_at": "2026-06-24T09:49:09.706358+00:00",
       "last_top_recheck_at": "2026-06-24T09:49:09.706358+00:00"
     },
@@ -1982,6 +2016,8 @@
         "https://inbusiness.kz/ru/specprojects/qazaq-oil-itogi-2023",
         "https://inbusiness.kz/ru/specprojects/luchshaya-azs-v-kazakhstane",
         "https://inbusiness.kz/ru/specprojects",
+        "https://inbusiness.kz/ru/last/kazahstancy-stali-pit-kofe-eshe-bolshe-nesmotrya-na-rost-cen",
+        "https://inbusiness.kz/ru/last/arrfr-zapustit-masshtabnuyu-ocenku-brokerov-i-dilerov-po-novym-standartam",
         "https://inbusiness.kz/ru/last/fejkovye-shtrafy-za-platnye-dorogi-kazahstancev-atakuyut-rassylki-ot-kaztoll",
         "https://inbusiness.kz/ru/last/v-severnoj-koree-vveli-v-stroj-krupnejshij-v-svoej-istorii-voennyj-korabl",
         "https://inbusiness.kz/ru/last/v-kitae-proizoshlo-moshnoe-zemletryasenie-sejsmologi-rk",
@@ -1993,15 +2029,14 @@
         "https://inbusiness.kz/ru/last/nazvany-lidery-i-autsajdery-teleradioveshaniya",
         "https://inbusiness.kz/ru/last/skolko-na-samom-dele-poluchayut-kurery-v-rk",
         "https://inbusiness.kz/ru/last/plov-iz-kyzylordinskogo-risa-bauyrsaki-i-kontrakty-na-milliony-kak-proshla-missiya-kazahstana-v-kabule",
-        "https://inbusiness.kz/ru/last/v-astane-nazvali-sroki-polnogo-importozamesheniya-myasa-pticy",
-        "https://inbusiness.kz/ru/news/v-centralnoj-azii-sostoyalsya-neobychnyj-obmen-territoriyami",
-        "https://inbusiness.kz/ru/last/rossiya-mozhet-polnostyu-zapretit-eksport-etogo-topliva"
+        "https://inbusiness.kz/ru/last/v-astane-nazvali-sroki-polnogo-importozamesheniya-myasa-pticy"
       ],
-      "last_success_at": "2026-06-24T09:49:09.706358+00:00",
+      "last_success_at": "2026-06-24T10:04:57.266037+00:00",
       "last_supplementary_at": "2026-06-24T09:49:09.706358+00:00"
     },
     "https://informburo.kz/": {
       "last_links": [
+        "https://informburo.kz/novosti/samolet-vypolniavsii-reis-iz-almaty-v-symkent-vynuzdenno-sel-v-taraze",
         "https://informburo.kz/novosti/kazavtozol-predupredil-voditelei-o-mosenniceskix-sms-ot-imeni-kaztoll",
         "https://informburo.kz/novosti/apriori-ne-sootvetstvuiut-deistvitelnosti-kazaxstancev-prosiat-ne-verit-sluxam-o-deficitax-i-pereboiax",
         "https://informburo.kz/novosti/zara-grozit-otkliuceniiami-elektricestva-v-evrope-vyderzivaiut-li-nagruzku-seti-v-kazaxstane",
@@ -2050,14 +2085,16 @@
         "https://informburo.kz/novosti/tokaev-na-peregovorax-v-briussele-my-gordimsia-tem-cto-iavliaemsia-nadeznym-partnerom-evrosoiuza",
         "https://informburo.kz/novosti/bolee-93-mlrd-tenge-vzial-v-kredit-kazavtozol-dlia-remonta-respublikanskix-dorog",
         "https://informburo.kz/novosti/184-kazaxstanca-polucili-stipendii-bolasak-opublikovany-spiski",
-        "https://informburo.kz/kaz/newskaz/pkigovkz-saitynda-zeke-kabinetke-kiru-usin-endi-egov-mobile-arqyly-rastau-qazet",
-        "https://informburo.kz/novosti/azartnye-igry-v-rabocee-vremia-cetyrex-gossluzashhix-uvolili-v-turkestanskoi-oblasti"
+        "https://informburo.kz/kaz/newskaz/pkigovkz-saitynda-zeke-kabinetke-kiru-usin-endi-egov-mobile-arqyly-rastau-qazet"
       ],
-      "last_success_at": "2026-06-24T09:49:09.706358+00:00",
+      "last_success_at": "2026-06-24T10:04:57.266037+00:00",
       "last_supplementary_at": "2026-06-24T09:49:09.706358+00:00"
     },
     "https://kaz.inform.kz/lenta": {
       "last_links": [
+        "https://kaz.inform.kz/news/kostanay-oblisinda-240mln-tengeden-astam-aliment-beresheg-ondrld-6326fc28",
+        "https://kaz.inform.kz/news/qarmet-tn-zhana-tsehi-zhilina-240-min-tonna-onm-shigaratin-boladi-23536cf0",
+        "https://kaz.inform.kz/news/stend-atudan-alem-chempionatinda-kazakstan-kuramasi-altin-medal-zhenp-aldi-45f834ec",
         "https://kaz.inform.kz/news/kazakstannin-top-5-uzdk-turistk-auili-aniktaldi-c5162ff8",
         "https://kaz.inform.kz/news/kostanay-oblisinda-24-tonna-spirtt-zansiz-tasimalgan-adam-ustaldi-0b7dd692",
         "https://kaz.inform.kz/news/darmek-operatsiyasi-barisinda-22-minnan-astam-darlk-preparat-aynalimnan-alindi-b0aa7c26",
@@ -2078,12 +2115,9 @@
         "https://kaz.inform.kz/news/kazakstanda-kus-et-ondrsn-2030-zhilga-deyn-tolik-kamtamasiz-etu-mndet-koyildi-448a1cf1",
         "https://kaz.inform.kz/news/zhaylau-bagdarlamasi-arkili-mal-sharuashiligi-zhobalarina-zhenldetlgen-nesie-ber-d78f5e2d",
         "https://kaz.inform.kz/news/atirauda-kun-energiyasina-negzdelgen-agrotehnologiyalik-park-ske-kosiladi-6f618511",
-        "https://kaz.inform.kz/news/turkstan-oblisinda-zhil-basinan-ber-memleketke-kansha-zher-kaytarildi-a6e7a991",
-        "https://kaz.inform.kz/news/aktobede-nayzagay-tusp-19-zhastagi-zhgt-mert-boldi-9327a351",
-        "https://kaz.inform.kz/news/petropavlda-nurli-zher-bagdarlamasimen-satilgan-baspanalar-talapka-say-bolmay-sh-4e5dd80f",
-        "https://kaz.inform.kz/news/almati-korgas-avtozholinda-ek-kolk-soktigisip-ush-adam-mert-boldi-1324a8c9"
+        "https://kaz.inform.kz/news/turkstan-oblisinda-zhil-basinan-ber-memleketke-kansha-zher-kaytarildi-a6e7a991"
       ],
-      "last_success_at": "2026-06-24T09:49:09.706358+00:00",
+      "last_success_at": "2026-06-24T10:04:57.266037+00:00",
       "last_supplementary_at": "2026-06-24T09:49:09.706358+00:00"
     },
     "https://kaztag.kz/ru/news": {
@@ -2094,6 +2128,8 @@
         "https://kaztag.kz/ru/interview",
         "https://kaztag.kz/ru/expert-opinion",
         "https://kaztag.kz/ru/gallery",
+        "https://kaztag.kz/ru/news/narusheniya-tarifnoy-smety-vyyavili-v-kyzylordinskoy-oblasti",
+        "https://kaztag.kz/ru/news/u-too-firkan-v-shymkente-vyyavili-neobosnovannyy-dokhod",
         "https://kaztag.kz/ru/news/almatinskie-teplovye-seti-ulichili-v-nepravomernykh-nachisleniyakh",
         "https://kaztag.kz/ru/news/pyatiletnyaya-devochka-utonula-v-atyrauskoy-oblasti",
         "https://kaztag.kz/ru/news/minenergo-kazakhstana-prokommentirovalo-ataku-dronov-po-gpz-v-orenburge",
@@ -2104,8 +2140,6 @@
         "https://kaztag.kz/ru/news/troe-skonchalis-v-rezultate-dtp-na-trasse-v-almatinskoy-oblasti",
         "https://kaztag.kz/ru/news/tseny-na-neft-snizilis-na-mirovykh-birzhakh-vo-vtornik-24-6-26",
         "https://kaztag.kz/ru/news/podozrevaemyy-v-rukovodstve-narkosindikatom-ekstradirovan-iz-polshi-v-kazakhstan",
-        "https://kaztag.kz/ru/news/glavred-kaztag-udostoen-zolotoy-medali-soyuza-zhurnalistov-kazakhstana",
-        "https://kaztag.kz/ru/news/obyavleny-laureaty-premiy-i-nagrad-soyuza-zhurnalistov-kazakhstana-24-6-26",
         "https://kaztag.kz/ru/news-of-the-day/glavred-kaztag-udostoen-zolotoy-medali-soyuza-zhurnalistov-kazakhstana",
         "https://kaztag.kz/ru/news-of-the-day/obyavleny-laureaty-premiy-i-nagrad-soyuza-zhurnalistov-kazakhstana-24-6-26",
         "https://kaztag.kz/ru/news-of-the-day/rsf-obespokoeny-sostoyaniem-zdorovya-glavreda-kaztag",
@@ -2127,7 +2161,7 @@
         "https://kaztag.kz/ru/gallery/ulitsu-zalilo-kipyatkom-posle-proryva-teplotrassy-v-almaty",
         "https://kaztag.kz/ru/gallery/vazhnym-rynkom-dlya-vengrii-nazval-kazakhstan-predstavitel-krupnoy-kompanii-"
       ],
-      "last_success_at": "2026-06-24T09:49:09.706358+00:00",
+      "last_success_at": "2026-06-24T10:04:57.266037+00:00",
       "last_supplementary_at": "2026-06-24T09:49:09.706358+00:00"
     },
     "https://kz.kursiv.media/": {
@@ -2139,15 +2173,15 @@
         "https://kz.kursiv.media/2026-06-24/shlc-v-almatinskoj-oblasti-zhena-i-syn-arestovany-za-podzhog-otcza-policzejskogo",
         "https://kz.kursiv.media/2026-06-24/dnlt-arrfr-pereoformit-litsenzii-vsem-bankam-i-primet-82-akta",
         "https://kz.kursiv.media/2026-06-24/shlc-infekcziya-i-otkaz-organov-minzdrav-raskryl-detali-poslednih-dnej-erbayana-muhtara",
+        "https://kz.kursiv.media/2026-06-24/mgpz-shestyu-matchami-startuet-tretii-tur-gruppovogo-etapa-chempionata-mira-2026",
+        "https://kz.kursiv.media/2026-06-24/shlc-po-vsemu-kazahstanu-obyavleno-shtormovoe-preduprezhdenie-iz-za-ugrozy-uragannogo-vetra",
+        "https://kz.kursiv.media/2026-06-24/rmnm-taksi-green-sm-otkazhetsya-ot-google-maps-posle-zhalob-v-almaty",
+        "https://kz.kursiv.media/2026-06-24/dlzh-minenergo-obratilos-k-kazahstanczam-iz-za-soobshhenij-o-deficzite-topliva-v-soczsetyah",
+        "https://kz.kursiv.media/2026-06-24/chnv-babl-ti-rejvery-i-dostavshchik-piccy-okazalis-na-scene-opernogo-teatra-v-almaty",
         "https://kz.kursiv.media/2026-06-24/lsbs-do-300-detei-v-den-vrach-rasskazal-o-roste-travmatizma-v-almaty",
         "https://kz.kursiv.media/2026-06-24/novyj-czeh-qarmet-budet-vypuskat-240-tysyach-tonn-produkczii-v-god",
         "https://kz.kursiv.media/2026-06-24/dlzh-mog-sluchitsya-haos-v-parlamente-obyasnili-smenu-daty-vyborov-zhaparova",
         "https://kz.kursiv.media/2026-06-24/chnv-kak-popast-na-masshtabnyi-forum-tatler-gen-t-leaders-of-tomorrow-v-almaty",
-        "https://kz.kursiv.media/2026-06-24/shlc-masshtabnuyu-shemu-obmana-na-olx-vskryli-v-almatinskoj-oblasti",
-        "https://kz.kursiv.media/2026-06-24/juju-pribyvshie-s-kruiznogo-sudna-amerikancy-ne-zarazilis-hantavirusom",
-        "https://kz.kursiv.media/2026-06-24/mlts-komanda-kazahstanskih-shpazhistok-vyigrala-bronzu-chempionata-azii",
-        "https://kz.kursiv.media/2026-06-24/cntr-sestra-pogibshey-v-dtp-na-trasse-almaty-khorgos-prosit-predat-delo-oglaske",
-        "https://kz.kursiv.media/2026-06-24/fvfv-glava-fk-ordabasy-poluchil-58-mln-tenge-za-pyat-let-vyplaty-vyrosli-pochti-v-5-raz",
         "https://kz.kursiv.media/2026-06-23/zhnb-sanatorii-plemyannika-eks-premera-kazahstana-zarabotal-desyatki-millionov-pribyli",
         "https://kz.kursiv.media/2026-06-22/gotovnost-gmk-k-cziklicheskoj-ekonomike-i-razvitiyu-rynka-pererabotki-othodov",
         "https://kz.kursiv.media/2026-06-23/dlzh-on-v-prekrasnom-sostoyanii-askar-akaev-rasskazal-o-nedavnej-vstreche-s-nazarbaevym",
@@ -2158,24 +2192,24 @@
         "https://kz.kursiv.media/2026-05-25/mlmr-arsenal-chempiony-apl",
         "https://kz.kursiv.media/2026-05-19/mlmr-samyj-zhivopisnyj-obshhestvennyj-transport-kazahstana-pervye-kadry-rabotayushhego-lrt",
         "https://kz.kursiv.media/2026-02-06/mlmr-kofeyni-almaty-kuda-skhodit-v-2026-godu",
+        "https://kz.kursiv.media/2026-06-24/fvfv-glava-fk-ordabasy-poluchil-58-mln-tenge-za-pyat-let-vyplaty-vyrosli-pochti-v-5-raz",
         "https://kz.kursiv.media/2026-06-24/zhzh-starii-kupuri-perestanut-prinimat-v-kz",
         "https://kz.kursiv.media/2026-06-24/pochemu-mnogie-zayavlennye-ai-proekty-tak-i-ne-budut-postroeny",
         "https://kz.kursiv.media/2026-06-24/assm-portugaliya-uzbekistan-kazakhstantsy-boleli-za-sosedey-kak-za-svoikh",
         "https://kz.kursiv.media/2026-06-24/assm-krasivee-i-deshevle-novuyu-lineiku-umnykh-ochkov-predstavili-meta",
-        "https://kz.kursiv.media/2026-06-24/devy-gde-v-almaty-proidet-poluchivshaya-durnuyu-slavu-yarmarka-tovarov-tadzhikistana",
+        "https://kz.kursiv.media/2026-06-24/cntr-sestra-pogibshey-v-dtp-na-trasse-almaty-khorgos-prosit-predat-delo-oglaske",
         "https://kz.kursiv.media/2026-06-24/cntr-rossiyanin-suditsya-s-fts-iz-za-kia-iz-kazahstana-trebuya-otmenit-donachisleniya",
         "https://kz.kursiv.media/2026-06-24/rmnm-voditelya-gruzovika-lishili-prav-za-popytku-obmanut-platnuyu-dorogu",
-        "https://kz.kursiv.media/2026-06-24/cntr-za-etu-czenu-zhirno-bloger-rasskazal-ob-osobennostyah-krossovera-ot-byd-da-tang",
+        "https://kz.kursiv.media/2026-06-24/mlts-komanda-kazahstanskih-shpazhistok-vyigrala-bronzu-chempionata-azii",
         "https://kz.kursiv.media/2026-06-24/mlts-u-sbornoj-kazahstana-po-futbolu-budet-novyj-trener-23-j-po-schetu",
         "https://kz.kursiv.media/2026-06-24/mlts-kolumbiya-vyigrala-u-dr-kongo-i-vyshla-v-plej-off-kubka-mira-2026",
-        "https://kz.kursiv.media/2026-06-24/mgpz-dubl-krishtianu-ronaldu-pomog-portugalii-razgromit-uzbekistan-na-chm-2026",
         "https://kz.kursiv.media/opinions/gonka-ii-vse-tolko-nachinaetsya",
         "https://kz.kursiv.media/opinions/kak-povysit-doverie-k-strahovaniyu-v-kazahstane",
         "https://kz.kursiv.media/opinions/realizovat-i-ne-razoritsya-kak-tehnicheskaya-oczenka-spasaet-it-proekty-v-kazahstane",
         "https://kz.kursiv.media/opinions/teraflopsy-vmesto-barrelej-kak-svyazany-suverenitet-ii-i-suverenitet-gosudarstv-v-xxi-veke",
         "https://kz.kursiv.media/opinions/pochemu-ii-ubet-starye-data-czentry"
       ],
-      "last_success_at": "2026-06-24T09:49:09.706358+00:00",
+      "last_success_at": "2026-06-24T10:04:57.266037+00:00",
       "last_supplementary_at": "2026-06-24T09:49:09.706358+00:00"
     },
     "https://newtimes.kz/novosti": {
@@ -2201,11 +2235,13 @@
         "https://newtimes.kz/kultura-i-sport/220628-dastan-satpaev-podorozhal-do-3-5-mln-evro-pered-ukhodom-v-chelsi",
         "https://newtimes.kz/obshchestvo/220634-grozovoi-front-proidet-cherez-kazakhstan-gde-zhdat-nepogody"
       ],
-      "last_success_at": "2026-06-24T09:49:09.706358+00:00",
+      "last_success_at": "2026-06-24T10:04:57.266037+00:00",
       "last_supplementary_at": "2026-06-24T09:49:09.706358+00:00"
     },
     "https://orda.kz/last-news": {
       "last_links": [
+        "https://orda.kz/ataka-na-gpz-v-rossii-snova-podnjala-vopros-o-gaze-s-karachaganaka-416178",
+        "https://orda.kz/minjenergo-hotelo-podnjat-tarify-na-jelektrichestvo-s-1-ijulja-no-neozhidanno-otozvalo-proekt-416177",
         "https://orda.kz/bednost-ne-povod-ne-rozhat-muftijat-kazahstana-zapretil-chajldfri-po-normam-shariata-416176",
         "https://orda.kz/glava-tehnadzora-v-vko-v-begah-pri-obyske-nashli-dublikaty-pechatej-i-fiktivnye-akty-416174",
         "https://orda.kz/v-kazahstane-hotjat-nauchit-jelektroseti-dumat-416175",
@@ -2253,20 +2289,19 @@
         "https://orda.kz/ledniki-tajut-vody-stanovitsja-menshe-ili-zachem-kazahstanu-cifrovoj-gidrolog-416133",
         "https://orda.kz/almatincy-skupajut-dollary-netto-prodazhi-v-gorode-vzleteli-pochti-v-dva-raza-416131",
         "https://orda.kz/za-posty-i-kommentarii-v-socsetjah-grozjat-shtrafami-i-tjurmoj-v-kazahstane-416129",
-        "https://orda.kz/spektakl-orfej-i-jevridika-sem-smertnyh-grehov-teatra-416125",
-        "https://orda.kz/v-shymkente-mat-vosmeryh-detej-poluchila-smertelnye-ozhogi-na-glazah-u-detej-416128",
-        "https://orda.kz/kak-moshenniki-pohischajut-avtomobili-cherez-servisy-perevozok-416127"
+        "https://orda.kz/spektakl-orfej-i-jevridika-sem-smertnyh-grehov-teatra-416125"
       ],
-      "last_success_at": "2026-06-24T09:49:09.706358+00:00",
+      "last_success_at": "2026-06-24T10:04:57.266037+00:00",
       "last_supplementary_at": "2026-06-24T09:49:09.706358+00:00"
     },
     "https://pricom.kz/": {
       "last_error": "main source fetch failed: HTTPError: HTTP Error 403: Forbidden",
-      "last_error_at": "2026-06-24T09:49:09.706358+00:00"
+      "last_error_at": "2026-06-24T10:04:57.266037+00:00"
     },
     "https://tengrinews.kz/news": {
       "last_links": [
         "https://tengrinews.kz/world_news/chm-2026-raspisanie-rezultatyi-tablitsyi-i-bombardiryi-602162",
+        "https://tengrinews.kz/kazakhstan_news/fortebank-uvelichil-kapital-461-milliarda-tenge-rasshireniya-602355",
         "https://tengrinews.kz/world_news/glava-razvedki-ssha-zayavila-globalnoy-seti-biolaboratoriy-602348",
         "https://tengrinews.kz/kazakhstan_news/minenergo-otvetilo-publikatsii-smi-defitsite-aviakerosina-602341",
         "https://tengrinews.kz/kazakhstan_news/akim-jambyilskoy-oblasti-proveril-stroitelstvo-sotsialnyih-602342",
@@ -2275,10 +2310,9 @@
         "https://tengrinews.kz/kazakhstan_news/popalsya-aeroportu-astanchanin-nastradalsya-iz-za-nahodki-602334",
         "https://tengrinews.kz/kazakhstan_news/politsiya-zaderjala-jenu-syina-pogibshego-sotrudnika-almatyi-602331",
         "https://tengrinews.kz/kazakhstan_news/85-letniy-rekord-jaryi-pobit-v-astane-602330",
-        "https://tengrinews.kz/kazakhstan_news/bank-rbk-pokazal-luchshuyu-dinamiku-rosta-kreditnogo-602327",
+        "https://tengrinews.kz/curious/politseyskiy-udivil-prohojih-na-naberejnoy-v-pavlodare-602332",
         "https://tengrinews.kz/healthy/instagram-teper-mojno-smotret-na-televizore-602357",
         "https://tengrinews.kz/curious/zumeryi-uchatsya-zanovo-govorit-po-telefonu-i-vot-zachem-602346",
-        "https://tengrinews.kz/kino-life/idet-oskarom-novyiy-proekt-toma-kruza-privlek-vnimanie-602322",
         "https://tengrinews.kz/travel-notes/ekspert-perechislila-5-glavnyih-oshibok-kotoryie-privodyat-602344",
         "https://tengrinews.kz/travel-notes/zahoteli-priehat-kazahstan-udivilo-jitelnitsu-uralska-puti-602237",
         "https://tengrinews.kz/my-country/26-millionov-tenge-tur-samyiy-dorogoy-poezd-nachnet-602287",
@@ -2289,9 +2323,10 @@
         "https://tengrinews.kz/news/krupnyiy-ryinok-snesli-v-almatyi-akimat-obyyasnil-prichinu-602054",
         "https://tengrinews.kz/private_finance/kazahstantsyi-nashli-sposob-poluchit-svoi-pensionnyie-601441",
         "https://tengrinews.kz/kazakhstan_news/dolgojdannaya-prohlada-idt-v-kazahstan-602146",
-        "https://tengrinews.kz/article/den-nacala-voiny-geroe-vov-skole-sko-vozvrashhaiut-imia-4185",
         "https://tengrinews.kz/kazakhstan_news/smertelnoe-dtp-al-farabi-aleksandru-paku-vyinesli-prigovor-602170",
-        "https://tengrinews.kz/autonews/mashinyi-massovo-uvozyat-dvorov-almatyi-nachalis-reydyi-dchs-601986",
+        "https://tengrinews.kz/kazakhstan_news/kazahstantsam-pridut-vajnyie-uvedomleniya-ot-nalogovoy-602273",
+        "https://tengrinews.kz/newseducation/pervomu-abiturientu-otmenili-rezultat-ent-proverki-video-602191",
+        "https://tengrinews.kz/kazakhstan_news/kazahstan-nakroet-anomalnaya-jara-do-42-gradusov-602328",
         "https://tengrinews.kz/kazakhstan_news/uscherb-12-milliarda-tenge-glavu-vostok-injiniring-602320",
         "https://tengrinews.kz/kazakhstan_news/nekotoryim-almatintsam-pridut-uvedomleniya-na-telefon-602315",
         "https://tengrinews.kz/news/podpolnuyu-farmimperiyu-nakryili-almatyi-dele-zameshanyi-602317",
@@ -2300,10 +2335,9 @@
         "https://tengrinews.kz/kazakhstan_news/akim-reshil-vyiyavlyat-narushiteley-chistotyi-ostavlennyim-602310",
         "https://tengrinews.kz/kazakhstan_news/tokaev-provel-vstrechi-c-predstavitelyami-veduschih-kompaniy-602307",
         "https://tengrinews.kz/kazakhstan_news/tokaev-provel-vstrechu-s-toni-blerom-602305",
-        "https://tengrinews.kz/kazakhstan_news/skonchalsya-erbayan-muhtar-600215",
-        "https://tengrinews.kz/kazakhstan_news/kazahstan-stremitsya-stat-glavnyim-mostom-evropoy-aziey-602302"
+        "https://tengrinews.kz/kazakhstan_news/skonchalsya-erbayan-muhtar-600215"
       ],
-      "last_success_at": "2026-06-24T09:49:09.706358+00:00",
+      "last_success_at": "2026-06-24T10:04:57.266037+00:00",
       "last_supplementary_at": "2026-06-24T09:49:09.706358+00:00"
     },
     "https://time.kz/news": {
@@ -2337,11 +2371,13 @@
         "https://time.kz/news/main/2026/06/21/tokaev-prinyal-glavu-administratsii-prezidenta-uzbekistana",
         "https://time.kz/news/main/2026/06/21/tokaev-sovershit-ofitsialnyj-vizit-v-bryussel"
       ],
-      "last_success_at": "2026-06-24T09:49:09.706358+00:00",
+      "last_success_at": "2026-06-24T10:04:57.266037+00:00",
       "last_supplementary_at": "2026-06-24T09:49:09.706358+00:00"
     },
     "https://ulysmedia.kz/news": {
       "last_links": [
+        "https://ulysmedia.kz/news/75825-ssha-sozdadut-v-kazakhstane-zonu-ekonomicheskoi-bezopasnosti-dlia-postavok-redkikh-mineralov",
+        "https://ulysmedia.kz/news/75823-gost-iz-ashkhabada-razogreet-iug-kazakhstana-do-42-gradusov",
         "https://ulysmedia.kz/news/75822-skandal-v-bolnitse-i-stychka-s-politsiei-chto-proiskhodilo-v-noch-smerti-erbaiana",
         "https://ulysmedia.kz/news/75821-askar-akaev-rasskazal-o-sostoianii-nursultana-nazarbaeva",
         "https://ulysmedia.kz/news/75820-minenergo-ataka-na-orenburgskii-gpz-v-rossii-ne-povliiala-na-kazakhstan",
@@ -2355,15 +2391,16 @@
         "https://ulysmedia.kz/news/75811-kosherbaev-o-vizite-v-briussel-kazakhstan-i-es-otkryvaiut-novuiu-stranitsu",
         "https://ulysmedia.kz/news/75809-milliardnyi-obman-na-sotsobektakh-glavu-tekhnadzora-obiavili-v-rozysk-v-vko",
         "https://ulysmedia.kz/news/75810-politseiskogo-sozhgli-pod-kegenom-zaderzhany-zhena-i-syn",
-        "https://ulysmedia.kz/news/75808-kazmunaigaz-zaplatil-gosudarstvu-dividendy-na-350-mlrd-tenge",
-        "https://ulysmedia.kz/news/75807-evropa-obeshchaet-kazakhstanu-milliardnyi-proekt-kotorogo-zhdali-30-let",
-        "https://ulysmedia.kz/news/75806-tseny-na-neft-rukhnuli-do-chetyrekhmesiachnogo-minimuma"
+        "https://ulysmedia.kz/news/75808-kazmunaigaz-zaplatil-gosudarstvu-dividendy-na-350-mlrd-tenge"
       ],
-      "last_success_at": "2026-06-24T09:49:09.706358+00:00",
+      "last_success_at": "2026-06-24T10:04:57.266037+00:00",
       "last_supplementary_at": "2026-06-24T09:49:09.706358+00:00"
     },
     "https://www.inform.kz/lenta": {
       "last_links": [
+        "https://www.inform.kz/ru/85-letniy-temperaturniy-rekord-pobit-v-astane-afce873c",
+        "https://www.inform.kz/ru/kazahstan-i-es-perehodyat-k-novoy-modeli-partnerstva-v-tsentralnoy-azii-ec7d272a",
+        "https://www.inform.kz/ru/okolo-20-kg-marihuani-izyali-v-hode-spetsoperatsii-v-aktau-f9cff78c",
         "https://www.inform.kz/ru/astana-bryussel-strategicheskaya-druzhba-isinergiya-interesov-86c900ea",
         "https://www.inform.kz/ru/oracle-sokratila-bolee-20-tisyach-sotrudnikov-iz-za-ii-d619550b",
         "https://www.inform.kz/ru/infrastrukturnoe-obnovlenie-v-zko-nurlibek-nalibaev-proveril-hod-rabot-52e6ab1c",
@@ -2384,20 +2421,18 @@
         "https://www.inform.kz/ru/pochti-dve-tisyachi-vipusknikov-valmati-otkazalis-otent-e337d8e1",
         "https://www.inform.kz/ru/smertniy-prigovor-zakorruptsiyu-vinesli-bivshemu-chinovniku-izshanhaya-3ab8858c",
         "https://www.inform.kz/ru/fermeram-kazahstana-stali-dostupni-novie-lgotnie-krediti-pod-56-godovih-a556f70a",
-        "https://www.inform.kz/ru/vremennie-ogranicheniya-naposeshenie-lesov-vveli-vkaragandinskoy-oblasti-9d4ecaaa",
-        "https://www.inform.kz/ru/naydenniy-vozle-lrt-patron-obnaruzhili-u-studenta-spustya-god-v-aeroportu-astani-ef351ed3",
-        "https://www.inform.kz/ru/dva-sela-uzbekistana-voshli-vsostav-kirgizstana-93e0ddca",
-        "https://www.inform.kz/ru/19-letniy-paren-pogib-ot-udara-molnii-v-aktyubinskoy-oblasti-d69f5614"
+        "https://www.inform.kz/ru/vremennie-ogranicheniya-naposeshenie-lesov-vveli-vkaragandinskoy-oblasti-9d4ecaaa"
       ],
-      "last_success_at": "2026-06-24T09:49:09.706358+00:00",
+      "last_success_at": "2026-06-24T10:04:57.266037+00:00",
       "last_supplementary_at": "2026-06-24T09:49:09.706358+00:00"
     },
     "https://www.ktk.kz/ru/news": {
       "last_error": "main source fetch failed: URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "last_error_at": "2026-06-24T09:49:09.706358+00:00"
+      "last_error_at": "2026-06-24T10:04:57.266037+00:00"
     },
     "https://www.zakon.kz/news": {
       "last_links": [
+        "https://www.zakon.kz/pravo/6522456-trebovaniya-k-tsentram-obrabotki-dannykh-utverdili-v-kazakhstane.html",
         "https://www.zakon.kz/sobytiia/6522455-rodstvennitsa-troikh-pogibshikh-na-trasse-almaty--khorgos-sdelala-skandalnoe-zayavlenie-o-voditele-Haval.html",
         "https://www.zakon.kz/nauka/6522454-pochemu-slova-kotorye-vertyatsya-na-yazyke-inogda-ne-vspominayutsya-nazvana-vozmozhnaya-prichina.html",
         "https://www.zakon.kz/sport/6522450-kto-garantiroval-mesto-v-pleyoff-chm2026-pered-startom-igr-tretego-tura.html",
@@ -2416,10 +2451,9 @@
         "https://www.zakon.kz/nauka/6522439-kopit-energiyu-uchenye-rasskazali-chto-proiskhodit-na-solntse-i-zhdat-li-magnitnykh-bur.html",
         "https://www.zakon.kz/proisshestviia/6522437-Haval-v-lob-protaranil-Audi-na-vstrechnoy-tri-cheloveka-pogibli-v-strashnoy-avarii-na-trasse-almaty--khorgos.html",
         "https://www.zakon.kz/sport/6522422-anchelotti-obyavil-vazhnuyu-novost-pro-neymara-pered-matchem-s-shotlandiey.html",
-        "https://www.zakon.kz/pravo/6522436-utochnen-poryadok-predstavleniya-svedeniy-i-priznaki-podozritelnykh-operatsiy.html",
-        "https://www.zakon.kz/obshestvo/6522435-kafe-i-restorany-shymkenta-obyazali-ubrat-reklamu-kalyanov.html"
+        "https://www.zakon.kz/pravo/6522436-utochnen-poryadok-predstavleniya-svedeniy-i-priznaki-podozritelnykh-operatsiy.html"
       ],
-      "last_success_at": "2026-06-24T09:49:09.706358+00:00",
+      "last_success_at": "2026-06-24T10:04:57.266037+00:00",
       "last_supplementary_at": "2026-06-24T09:49:09.706358+00:00"
     }
   },
