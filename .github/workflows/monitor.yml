@@ -8,13 +8,6 @@ on:
         required: false
         type: boolean
         default: false
-  push:
-    branches:
-      - main
-    paths:
-      - "atyrau_monitor.py"
-      - ".github/workflows/monitor.yml"
-      - ".gitignore"
 
 permissions:
   contents: write
