@@ -131,6 +131,7 @@ SOURCES = [
     {"name": "КТК", "url": "https://www.ktk.kz/ru/news/"},
     {"name": "Время", "url": "https://time.kz/news"},
     {"name": "Aikyn", "url": "https://aikyn.kz/news"},
+    {"name": "BES.media", "url": "https://bes.media/allnews/"},
 ]
 
 EXTERNAL_SEARCH_BASE_QUERIES = [
